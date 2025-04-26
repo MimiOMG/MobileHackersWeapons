@@ -5,7 +5,7 @@
   <img src="https://img.shields.io/github/languages/top/hahwul/MobileHackersWeapons?style=flat"> 
   <img src="https://img.shields.io/github/last-commit/hahwul/MobileHackersWeapons?style=flat"> 
   <img src="https://img.shields.io/badge/PRs-welcome-cyan">
-  <img src="https://github.com/hahwul/MobileHackersWeapons/workflows/Build/badge.svg">
+  <img src="https://githlub.com/hahwul/MobileHackersWeapons/workflows/Build/badge.svg">
   <img src="https://github.com/hahwul/MobileHackersWeapons/workflows/CodeQL/badge.svg">
   <a href="https://twitter.com/intent/follow?screen_name=hahwul"><img src="https://img.shields.io/twitter/follow/hahwul?style=flat&logo=twitter"></a>
 </h1>
